@@ -1,4 +1,4 @@
-<img align="center" src="Banner.png">
+<!-- <img align="center" src="Banner.png"> -->
 <h3 align="center">Web Developer | GitHub Campus Expert | Google DSC Lead |</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
