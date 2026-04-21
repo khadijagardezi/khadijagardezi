@@ -3,6 +3,7 @@
 
 
 
+#### 🎓  Computer Engineering student at University of Verona, Italy
 #### 🌍  Worldwide roots, thriving in EST time zone!
 #### 🖥️  Portfolio at [gardezi.dev](https://gardezi.dev/)
 
@@ -25,6 +26,16 @@
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32" height="32"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32"/></td>
 <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="32" height="32"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="32" height="32"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="32" height="32"/></td>
+<td><img src="https://cdn.simpleicons.org/craftcms/E5422B" width="32" height="32"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twig/twig-original.svg" width="32" height="32"/></td>
+<td><img src="https://cdn.simpleicons.org/hubspot/FF7A59" width="32" height="32"/></td>
+<td><img src="https://cdn.simpleicons.org/marketo/5C4C9F" width="32" height="32"/></td>
+<td><img src="https://cdn.simpleicons.org/googletagmanager/246FDB" width="32" height="32"/></td>
+<td><img src="https://cdn.simpleicons.org/posthog/E5422B" width="32" height="32"/></td>
+<td><img src="https://cdn.simpleicons.org/shadcnui/000000" width="32" height="32"/></td>
+<td><img src="https://cdn.simpleicons.org/zustand/443E38" width="32" height="32"/></td>
 </tr></table>
 
 <h3 align="left">Connect with me:</h3>
